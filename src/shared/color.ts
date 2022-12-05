@@ -1,0 +1,1 @@
+export const BACKGROUND="#eff3f8"
